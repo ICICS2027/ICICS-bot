@@ -417,10 +417,6 @@ tbody tr:last-child td {
   font-size: 0.82rem;
 }
 
-.source-reference {
-  margin-top: 1.2rem;
-}
-
 .table-link {
   color: var(--blue-600);
   font-weight: 700;
@@ -469,6 +465,14 @@ tbody tr:last-child td {
 
 .guideline-list li {
   margin: 0.55rem 0;
+}
+
+.empty-state {
+  max-width: 820px;
+  padding: 1rem 1.2rem;
+  color: var(--muted);
+  background: var(--white);
+  border: 1px dashed var(--line);
 }
 
 .subsection-title {
@@ -528,6 +532,10 @@ tbody tr:last-child td {
   display: inline-block;
   margin-top: 0.8rem;
   font-size: 0.8rem;
+}
+
+.award-copy strong {
+  color: var(--navy-900);
 }
 
 .information-grid-compact article {
