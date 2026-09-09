@@ -23,9 +23,9 @@ window.ICICS_SITE_CONFIG = {
   studentRegistrationDeadline: "To be announced",
   studentRegistrationFee: "To be announced",
   registrationUrl: "",
-  posterSubmissionDeadline: "To be announced",
-  posterDecisionDeadline: "To be announced",
-  posterCameraReadyDeadline: "To be announced",
+  posterSubmissionDeadline: "10 August, 2027",
+  posterDecisionDeadline: "25 August, 2027",
+  posterCameraReadyDeadline: "01 September, 2027",
   posterSessionDate: "To be announced",
   posterSubmissionUrl: "",
   programStatus: "To be announced",
@@ -35,5 +35,4 @@ window.ICICS_SITE_CONFIG = {
   awardsUrl: "",
   programUrl: "",
   acceptedPapersUrl: "",
-  contactEmail: "",
 };

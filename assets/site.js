@@ -19,14 +19,6 @@ document.querySelectorAll("[data-config-href]").forEach((element) => {
   element.textContent = element.dataset.readyLabel || "Open submission portal ↗";
 });
 
-document.querySelectorAll("[data-config-mail]").forEach((element) => {
-  const email = config[element.dataset.configMail];
-  if (!email) return;
-  element.href = `mailto:${email}`;
-  element.removeAttribute("aria-disabled");
-  element.textContent = email;
-});
-
 const syncHeader = () => {
   header?.classList.toggle("is-scrolled", window.scrollY > 20);
 };
