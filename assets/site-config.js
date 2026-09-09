@@ -12,7 +12,7 @@ window.ICICS_SITE_CONFIG = {
   secondSubmission: "May 30, 2027 · 23:59 AoE",
   finalDecision: "July 31, 2027",
   cameraReady: "To be announced",
-  cfpUrl: "",
+  cfpUrl: "assets/documents/ICICS-2027-CFP.pdf",
   submissionUrl: "",
   authorRegistrationDeadline: "To be announced",
   authorRegistrationFee: "To be announced",
