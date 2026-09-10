@@ -13,7 +13,7 @@ window.ICICS_SITE_CONFIG = {
   finalDecision: "July 31, 2027",
   cameraReady: "To be announced",
   cfpUrl: "assets/documents/ICICS-2027-CFP.pdf",
-  submissionUrl: "",
+  submissionUrl: "https://easychair.org/my/conference?conf=icics2027",
   authorRegistrationDeadline: "To be announced",
   authorRegistrationFee: "To be announced",
   earlyRegistrationDeadline: "To be announced",
